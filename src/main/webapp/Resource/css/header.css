@@ -1,0 +1,34 @@
+#header {
+	background: url(./img/bg.jpg) repeat-x;
+	width: 100%;
+	height: 70px;
+	margin: 0 auto;
+	position: relative;
+	overflow: auto; /* fix ie7 float:right drop problem */
+}
+#header_l {
+	float: left;
+	height: 70px;
+	width: 626px;
+}
+#header_r {
+	float: right;
+	height: 70px;
+	width: 350px;
+}
+#header_r p {
+	position: absolute;
+	right: 20px;
+	top: 10px;
+	margin: 0;
+}
+#footer{
+	background: url(./img/bg.jpg) repeat-x;
+	font-family: 微軟正黑體;
+	color: #000;
+	padding-top: 8px;
+	float: left;
+	width: 100%;
+	height: 22px;
+	text-align: center;
+}

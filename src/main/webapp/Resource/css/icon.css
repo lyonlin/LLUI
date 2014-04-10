@@ -1,0 +1,9 @@
+.icon-add{
+	background:url('icons/add.png') no-repeat center center;
+}
+.icon-edit{
+	background:url('icons/edit.png') no-repeat center center;
+}
+.icon-remove{
+	background:url('icons/remove.png') no-repeat center center;
+}
